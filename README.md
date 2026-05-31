@@ -46,16 +46,70 @@ Data Collection → Data Preprocessing → NLP Analytics → SQL Storage → Pow
 - Overall business insights
 - Product performance tracking
 - KPI monitoring
+  Dashboard Screenshots
+
+Dashboard Screenshot:
+[https://github.com/mamta45/AI-Powered-Business-Intelligence-Tool-for-Customer-Sentiment-Analysis/blob/main/images/overview_dashboard.png?raw=true]
 
 ### Product Recommendation Dashboard
 - Product ranking analysis
 - AI-based scoring insights
 - Risk analysis
+ 
+Dashboard Screenshot:
+[https://github.com/mamta45/AI-Powered-Business-Intelligence-Tool-for-Customer-Sentiment-Analysis/blob/main/images/overview_dashboard.png?raw=true]
+
 
 ### Social Media Dashboard
 - Customer sentiment trends
 - Engagement analytics
 - Feedback analysis
+Dashboard Screenshot:
+[https://github.com/mamta45/AI-Powered-Business-Intelligence-Tool-for-Customer-Sentiment-Analysis/blob/main/images/social_media_dashboard.png?raw=true]
+
+### Customer Review Details Dashboard
+
+- Customer review and sentiment monitoring
+- Rating and sentiment trend analysis
+- Product-wise review analysis
+- Customer feedback visualization
+- Review distribution tracking
+ Dashboard Screenshot:
+ [https://github.com/mamta45/AI-Powered-Business-Intelligence-Tool-for-Customer-Sentiment-Analysis/blob/main/images/customer_review_dashboard.png?raw=true]
+
+### Issue Classification Dashboard
+
+- Issue category analysis
+- Severity index monitoring
+- High-risk issue identification
+- Product-wise issue tracking
+- Issue trend visualization
+  Dashboard Screenshot:
+[https://github.com/mamta45/AI-Powered-Business-Intelligence-Tool-for-Customer-Sentiment-Analysis/blob/main/images/issue_classification_dashboard.png?raw=true]
+
+
+### Business Recommendation Dashboard
+
+- AI-driven business recommendations
+- Risk product identification
+- Severity-based decision support
+- Business issue distribution analysis
+- Recommendation engine insights
+  Dashboard Screenshot:
+  [https://github.com/mamta45/AI-Powered-Business-Intelligence-Tool-for-Customer-Sentiment-Analysis/blob/main/images/business_recommendation_dashboard.png?raw=true]
+
+### Conversion Details Dashboard
+
+- Product conversion performance tracking
+- Customer journey analysis
+- Monthly conversion trend monitoring
+- Product-wise conversion comparison
+- Conversion funnel visualization
+Dashboard Screenshot:
+[https://github.com/mamta45/AI-Powered-Business-Intelligence-Tool-for-Customer-Sentiment-Analysis/blob/main/images/conversion_details_dashboard.png?raw=true]
+
+
+
 
 ---
 
